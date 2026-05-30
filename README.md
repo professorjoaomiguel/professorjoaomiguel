@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @professorjoaomiguel
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
---->
-- 📫 You can reach me on Telegram **@professorjoaomiguel** (http://t.me/professorjoaomiguel)
+# Professor João Miguel
 
-<!---
-professorjoaomiguel/professorjoaomiguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Professor na **Faculdade de Tecnologia SENAI Porto Alegre**.
+
+---
+
+### 🏛️ Unidades Curriculares Ministradas
+
+*   **Internet das Coisas (S122)**
+*   **Sistemas Embarcados (Lab SE)**
+*   **Programação Básica**
+
+---
+
+### 📫 Contato
+
+*   **Telegram:** [@professorjoaomiguel](https://t.me/professorjoaomiguel)
+
